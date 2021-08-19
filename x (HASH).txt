@@ -1,0 +1,19 @@
+int  arr()
+{
+float lehar()
+{
+    int arr;
+    return 2.0;
+}
+
+struct lehar
+{
+    int a;
+    int b;
+    void func()
+    {
+        char *p;
+    }
+}
+
+}
